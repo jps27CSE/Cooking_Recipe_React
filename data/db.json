@@ -47,6 +47,15 @@
       "method": "test",
       "cookingTime": "18 minutes",
       "id": "kzg7jCN"
+    },
+    {
+      "title": "test",
+      "ingredients": [
+        "test2"
+      ],
+      "method": "tst",
+      "cookingTime": "11 minutes",
+      "id": "gnuYFdj"
     }
   ]
 }
